@@ -21,7 +21,7 @@ source=(
 "http://security.ubuntu.com/ubuntu/pool/universe/c/chromium-browser/chromium-codecs-ffmpeg-extra_${pkgver}-0ubuntu0.17.10.${pkgrel}_amd64.deb"
 )
 md5sums=(
-  "72949511a698f74c68d1827ce172577e"
+  "7d3f66b00c477d86a2e63eae02d82d3f"
 )
 
 prepare() {
