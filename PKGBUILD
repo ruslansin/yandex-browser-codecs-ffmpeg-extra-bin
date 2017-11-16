@@ -1,8 +1,8 @@
 # Maintainer: snql <snql DOT by AT gmail DOT com>
 # Based on vivaldi-codecs-ffmpeg-extra-bin package <Maintainer: Fahad Hossain>
 pkgname=yandex-browser-codecs-ffmpeg-extra-bin
-pkgver=62.0.3202.62
-pkgrel=1380
+pkgver=62.0.3202.89
+pkgrel=1386
 pkgdesc="Prebuilt ffmpeg-codecs package for yandex.browser"
 arch=(
   "x86_64"
